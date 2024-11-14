@@ -1,5 +1,10 @@
 h1 {
     color: darkblue; 
     font-family:'Lucida Sans', 'Lucida Sans Regular'; 
-    font-size: large;
+    font-size: x-large;
+}
+h2 {
+    color: blueviolet;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow';
+    font-size: larger
 }
