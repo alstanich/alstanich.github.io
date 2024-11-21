@@ -11,7 +11,7 @@ h2 {
 .div {
     width: auto; margin:auto}
 a:hover {color: lightskyblue}
-.figcaption { font-size: small; font-style: italic; text-align: center;}
+.figcaption { font-size: small; font-style: italic; text-align: center; background-color: black; color: white}
 
 .featured.image {
     width: 200px;
