@@ -15,4 +15,5 @@ a:hover {color: lightskyblue}
 
 .featured.image {
     width: 200px;
-    height: auto;
+    height: auto;}
+.footer {background-color: midnightblue; color: white;}
