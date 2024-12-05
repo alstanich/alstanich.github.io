@@ -55,3 +55,6 @@
     <!-- Header -->
     <header class="jumbotron text-center">
         <h1 class="display-
+    .p {
+        font-size: 1.25rem;
+    }
