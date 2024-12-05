@@ -22,5 +22,6 @@ body {
 
 .navbar {
     background-color: #000000;font-family: opendyslexic; arial;}
-.paragraph {font-family: opendyslexic; arial; sans-serif;
+
+.paragraph {font-family: opendyslexic; arial; sans-serif;color: blue;
 }
