@@ -21,8 +21,8 @@
     text-align: center;
 }
 
-.navbar {
-    background-color: #000000;
+nav {
+    background-color: #000000 !important;
     font-family: open; arial;}
 
 .paragraph {font-family: open; arial; sans-serif;
@@ -30,7 +30,7 @@
 }
 
 .navbar-brand {font-family: open; Arial, Helvetica, sans-serif; sans-serif;
-color: blue;
+color: white;
 }
 
 .button {font-family: open; arial; sans-serif;
