@@ -1,9 +1,10 @@
 .body {
-    font-family: opendyslexic; Arial, sans-serif;
+    font-family: opendyslexic; Arial; sans-serif;
 }
 .jumbotron {
     background-color: #000000;
     color: whitesmoke;
+    font-family: opendyslexic; Arial; sans-serif; 
     padding: 4rem 2rem;
 }
 .portfolio-item {
