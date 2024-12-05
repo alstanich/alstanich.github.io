@@ -23,16 +23,16 @@
 
 .navbar {
     background-color: #000000;
-    font-family: opendyslexic; arial;}
+    font-family: open; arial;}
 
 .paragraph {font-family: open; arial; sans-serif;
     color: blue;
 }
 
-.navbar-brand {font-family: opendyslexic; Arial, Helvetica, sans-serif; sans-serif;
+.navbar-brand {font-family: open; Arial, Helvetica, sans-serif; sans-serif;
 color: blue;
 }
 
-.button {font-family: opendyslexic; arial; sans-serif;
+.button {font-family: open; arial; sans-serif;
     color: blue;
 }
