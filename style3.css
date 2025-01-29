@@ -1,10 +1,10 @@
 .body {
-    font-family: Helvetica; opendyslexic; Arial; sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
 }
 .jumbotron {
     background-color: #f5f5f5;
     color: #000000;
-    font-family: Helvetica; opendyslexic; Arial; sans-serif; 
+    font-family: Helvetica, Arial, sans-serif; 
     padding: 4rem 2rem;
 }
 .portfolio-item {
@@ -15,24 +15,24 @@
     height: auto;
 }
 .footer {
-    background-color: #000000;
     color: white;
     padding: 1rem 0;
     text-align: center;
 }
 
 nav {
-    background-color: #000000 !important;
-    font-family: open; arial;}
+    background-color: #000000;
+    font-family: open; arial
+}
 
-.paragraph {font-family: open; arial; sans-serif;
+.paragraph {font-family: open, arial, sans-serif;
     color: blue;
 }
 
-.navbar-brand {font-family: open; Arial, Helvetica, sans-serif; sans-serif;
+.navbar-brand {font-family: open; Arial, Helvetica, sans-serif;
 color: #f0e130;
 }
 
-button {font-family: open; arial; sans-serif;
+button {font-family: open, arial, sans-serif;
     color: greenyellow;
 }
