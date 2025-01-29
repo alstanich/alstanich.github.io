@@ -22,14 +22,16 @@
 
 nav {
     background-color: #000000;
-    font-family: open; arial
+    font-family: 'Open Sans', arial, sans-serif;
 }
 
-.paragraph {font-family: open, arial, sans-serif;
+.paragraph {
+    font-family: 'Open Sans', arial, sans-serif;
     color: blue;
 }
 
-.navbar-brand {font-family: open; Arial, Helvetica, sans-serif;
+.navbar-brand {
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
 color: #f0e130;
 }
 
