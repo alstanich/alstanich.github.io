@@ -40,12 +40,12 @@ color: #f0e130;
 }
 
 .btn-custom {
-    background-color: #28a745; /* Background color */
-    color: #fff; /* Text color */
-    border: none; /* Remove border */
+    background-color: black;
+    color: yellow;
+    border: none;
 }
 
 .btn-custom:hover {
-    background-color: #218838; /* Background color on hover */
-        color: #fff; /* Text color on hover */
+    background-color: gray; 
+        color: #fff; 
     }
