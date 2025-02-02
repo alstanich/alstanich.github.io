@@ -35,8 +35,10 @@ nav {
 color: #f0e130;
 }
 
-.button {font-family: open, arial, sans-serif;
+.btn {font-family: open, arial, sans-serif;
     color: black;
+    background-color: yellow;
+    
 }
 
 .btn-custom {
