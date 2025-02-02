@@ -35,7 +35,7 @@ nav {
 color: #f0e130;
 }
 
-.btn {font-family: open, arial, sans-serif;
+.btn {text-align: center; font-family: open, arial, sans-serif;
     color: whitesmoke;
     background-color: black;
     
@@ -57,4 +57,9 @@ color: #f0e130;
         background-size: cover;
         background-position: center;
         color: white;
+    }
+
+    .title {
+        font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+        color: #f0e130;
     }
