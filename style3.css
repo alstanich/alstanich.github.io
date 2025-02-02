@@ -51,3 +51,9 @@ color: #f0e130;
     background-color: gray; 
         color: #fff; 
     }
+
+    .jumbotron-custom {
+        background-image: url('path/to/your/image.jpg');
+        background-size: cover;
+        background-position: center;
+        color: white;
